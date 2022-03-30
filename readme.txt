@@ -11,4 +11,5 @@ Today is Wednesday.Good luck!
 It is sunny!
 Come on!
 
-Do you want an apple?
+I want an apple.
+Do you want one too?
