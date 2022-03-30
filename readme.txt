@@ -13,4 +13,4 @@ Come on!
 
 I want an apple.
 Do you want one, too?
-No!
+No! Thank you all the same. 
