@@ -10,3 +10,5 @@ Of cause!
 Today is Wednesday.Good luck!
 It is sunny!
 Come on!
+
+Do you want an apple?
