@@ -8,3 +8,4 @@ Do you love them?
 Of cause!
 
 Today is Wednesday.Good luck!
+It is sunny!
