@@ -6,3 +6,5 @@ Creating a new branch is quick & simple!
 I love apple and melon!
 Do you love them?
 Of cause!
+
+Today is Wednesday.
