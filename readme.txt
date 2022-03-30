@@ -15,4 +15,4 @@ I want an apple.
 Do you want one, too?
 No! Thank you all the same. 
 Fine then. What is your favorite fruit?
-I like pears! 
+I like pears! Banana is also my love! 
