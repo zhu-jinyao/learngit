@@ -7,4 +7,4 @@ I love apple and melon!
 Do you love them?
 Of cause!
 
-Today is Wednesday.
+Today is Wednesday.Good luck!
