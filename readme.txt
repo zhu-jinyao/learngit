@@ -12,5 +12,5 @@ It is sunny!
 Come on!
 
 I want an apple.
-Do you want one too?
+Do you want one, too?
 No!
