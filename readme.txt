@@ -20,3 +20,4 @@ Well! That is nice! Cause I love them too!
 
 What is your hobby? 
 I like jogging.
+That is a good hobby! 
