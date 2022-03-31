@@ -19,6 +19,5 @@ I like pears! Banana is also my love!
 Well! That is nice! Cause I love them too! 
 
 What is your hobby? 
-I like jogging.
-That is a good hobby! You know, that can build your body! 
 I like jogging. What about you? 
+That is a good hobby! You know, that can build your body! 
