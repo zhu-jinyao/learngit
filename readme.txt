@@ -17,3 +17,6 @@ No! Thank you all the same.
 Fine then. What is your favorite fruit?
 I like pears! Banana is also my love! 
 Well! That is nice! Cause I love them too! 
+
+What's your hobbies?
+I like going jogging! 
