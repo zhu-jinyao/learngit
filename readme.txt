@@ -20,13 +20,10 @@ Well! That is nice! Cause I love them too!
 
 What's your hobbies?
 I like going jogging! 
-<<<<<<< HEAD
 That is nice! We can go together every sunsets! 
 
 Hope you a good night~ 
 
 Today is still cold. 
 I still have a lot of things to manage.
-=======
-That is nice! It can build up your body! 
->>>>>>> dev
+Cheer up! You can manage them! 
