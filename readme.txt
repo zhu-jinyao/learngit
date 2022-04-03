@@ -29,4 +29,8 @@ I still have a lot of things to manage.
 Come on! You can manage them! 
 Okay! 
 
+<<<<<<< HEAD
 Hurry up. 
+=======
+Try to understand rebase. 
+>>>>>>> 25b9a7e (try to udsd rb)
