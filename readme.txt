@@ -32,4 +32,8 @@ Okay!
 Hurry up. 
 Try to understand rebase. 
 
+<<<<<<< HEAD
 branchesssssss
+=======
+branch
+>>>>>>> master
