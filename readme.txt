@@ -26,4 +26,8 @@ Hope you a good night~
 
 Today is still cold. 
 I still have a lot of things to manage.
+<<<<<<< HEAD
 Cheer up! 
+=======
+Come on! You can manage them! 
+>>>>>>> 070c092 (come on)
